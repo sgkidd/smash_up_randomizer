@@ -28,7 +28,7 @@ while game != "n":
             print(decks)
             players = players - 1
     else :
-        print("Did you not read the fucking directions? \nLets try this again...")
+        print("Did you not read the directions? \nLets try this again...")
     
     game = str(input("Would you like to play a game, (y/n)? "))
 print("Alright, see ya next time.")
